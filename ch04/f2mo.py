@@ -41,4 +41,6 @@ class FeetToMeters:
 
 root = Tk()
 FeetToMeters(root)
-root.mainloop()
+
+if __name__ == "__main__":
+    root.mainloop()
